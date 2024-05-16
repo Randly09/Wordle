@@ -1,0 +1,21 @@
+header {
+    width: 100%;
+    background-color: blue;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+tr {
+    border-bottom: 1px solid black;
+}
+
+form{
+    display: inline;
+}
